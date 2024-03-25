@@ -1,4 +1,4 @@
-package pe.edu.idat.apppatitasidatsjm
+package pe.edu.idat.apppatitasidatsjm.view
 
 import android.os.Bundle
 import android.view.Menu
@@ -11,6 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
+import pe.edu.idat.apppatitasidatsjm.R
 import pe.edu.idat.apppatitasidatsjm.databinding.ActivityHomeBinding
 
 class HomeActivity : AppCompatActivity() {

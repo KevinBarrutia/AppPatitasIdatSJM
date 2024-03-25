@@ -6,12 +6,12 @@
     app:startDestination="@id/mascotaFragment">
     <fragment
         android:id="@+id/mascotaFragment"
-        android:name="pe.edu.idat.apppatitasidatsjm.MascotaFragment"
+        android:name="pe.edu.idat.apppatitasidatsjm.view.fragment.MascotaFragment"
         android:label="@string/menu_mascota"
         tools:layout="@layout/fragment_mascota" />
     <fragment
         android:id="@+id/voluntatioFragment"
-        android:name="pe.edu.idat.apppatitasidatsjm.VoluntatioFragment"
+        android:name="pe.edu.idat.apppatitasidatsjm.view.fragment.VoluntatioFragment"
         android:label="@string/menu_voluntario"
         tools:layout="@layout/fragment_voluntatio" />
 </navigation>

@@ -1,10 +1,11 @@
-package pe.edu.idat.apppatitasidatsjm
+package pe.edu.idat.apppatitasidatsjm.view
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import pe.edu.idat.apppatitasidatsjm.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
